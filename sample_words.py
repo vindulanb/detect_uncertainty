@@ -1,0 +1,1 @@
+commands = ['go', 'come', 'move', 'run', 'make a move']
